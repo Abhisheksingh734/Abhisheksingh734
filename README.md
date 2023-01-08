@@ -1,7 +1,7 @@
 [![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif)](https://abhisheksingh734.io)
 <h1 align="center">Hi 👋, I'm Abhishek singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<!-- <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding"> -->
+<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksingh734&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksingh734" /> </p>
 
 - ⚡ Fun fact **I am funny**
