@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e474a4qecixjepgwm7jewdovxoix3079u3fppt657q8&rid=giphy.gif&ct=g)](https://abhisheksingh734.io)
+<!-- [![MasterHead](https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e474a4qecixjepgwm7jewdovxoix3079u3fppt657q8&rid=giphy.gif&ct=g)](https://abhisheksingh734.io) -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisheksingh734/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Abhishek-Singh-28482) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20164038) 
