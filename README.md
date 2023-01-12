@@ -1,24 +1,34 @@
-[![MasterHead](https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e474a4qecixjepgwm7jewdovxoix3079u3fppt657q8&rid=giphy.gif&ct=g)](https://abhisheksingh734.io)
-<h1 align="center">Hi 👋, I'm Abhishek singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<!-- [![MasterHead](https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e474a4qecixjepgwm7jewdovxoix3079u3fppt657q8&rid=giphy.gif&ct=g)](https://abhisheksingh734.io) -->
+[![](https://visitcount.itsvg.in/api?id=Abhisheksingh734&icon=0&color=12)](https://visitcount.itsvg.in)
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksingh734&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksingh734" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksingh734/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abhishek-Singh-28482) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20164038) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksingh734" alt="abhisheksingh734" /></a> </p>
+<br>
+<br>
 
-- ⚡ Fun fact **I am funny**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhisheksingh734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheksingh734" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20164038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20164038" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@abhisheksinghas3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhisheksinghas3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhisheksinghasr734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksinghasr734" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abhisheksinghasr734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisheksinghasr734" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhisheksingh734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhisheksingh734" height="30" width="40" /></a>
-</p>
+<br>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhisheksingh734&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhisheksingh734&theme=dark&hide_border=false)
+<br/>
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksingh734&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksingh734&show_icons=true&locale=en" alt="abhisheksingh734" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhisheksingh734&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abhisheksingh734&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
