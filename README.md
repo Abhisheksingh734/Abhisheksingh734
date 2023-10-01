@@ -1,4 +1,5 @@
-<!-- [![MasterHead](https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e474a4qecixjepgwm7jewdovxoix3079u3fppt657q8&rid=giphy.gif&ct=g)](https://abhisheksingh734.io) -->
+[![An image of @abhisheksingh734's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhisheksingh734)](https://holopin.io/@abhisheksingh734)
+
 [![](https://visitcount.itsvg.in/api?id=Abhisheksingh734&icon=0&color=12)](https://visitcount.itsvg.in)
 <br>
 
